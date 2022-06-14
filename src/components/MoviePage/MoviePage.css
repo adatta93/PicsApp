@@ -1,0 +1,9 @@
+.ui.card,
+.ui.cards > .card {
+  width: 262px;
+}
+
+.ui.card > .image > img,
+.ui.cards > .card > .image > img {
+  height: 400px;
+}
